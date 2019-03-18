@@ -1,24 +1,8 @@
-# README
+The code in this repository was used for a blog on Medium.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+The blog's topic was to build a RESTful API using Ruby on Rails.
 
-Things you may want to cover:
+The purpose of the blog was to gain a better understanding of APIs and to gain some familiarity with Chrome's Postman.
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Here is the link for the blog:
+https://medium.com/@hunter.j.nate/well-the-jerk-store-called-and-they-said-you-didnt-know-how-to-build-an-api-120eda19c836
