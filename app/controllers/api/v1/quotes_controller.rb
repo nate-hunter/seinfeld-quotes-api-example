@@ -41,8 +41,7 @@ module Api
       private
 
       def quote_params
-        params.permit(:character, :quote, :episode)
-        # params.require(:quote).permit(:character, :quote, :episode)
+        params.require(:quote).permit(:character, :quote, :episode)
       end
 
     end
